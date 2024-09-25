@@ -56,6 +56,3 @@ pytest --cov=.
 ```
 
 Сами тесты находятся в фале [test_courses_api.py](tests/students/test_courses_api.py)
-
-## Задачу выполнила
-Евгения Псарева `epsareva77@gmail.com`
